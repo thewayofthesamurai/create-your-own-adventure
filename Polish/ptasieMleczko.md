@@ -6,6 +6,8 @@ Czujesz, że wzmaga się w tobie pragnienie, czy to nie jest dobry pomysł, żeb
 
 A może masz ochotę napić się Sophii?
 
+A mo�e napijesz si� Brunello del Monte Cini?
+
 Co robisz? 
 
 [Idziesz spac?](spanie/spaniee.md)
