@@ -4,6 +4,8 @@ OkazaÅ‚o siÄ™ rÃ³wnieÅ¼, Å¼e masz na sobie niewygodnÄ… kurtkÄ™ i nie masz na sob
 
 Czujesz, ¿e wzmaga siê w tobie pragnienie, czy to nie jest dobry pomys³, ¿eby napiæ siê Kadarki?
 
+A mo¿e napijesz siê Brunello del Monte Cini?
+
 Co robisz? 
 
 [Idziesz spac?](spanie/spaniee.md)
